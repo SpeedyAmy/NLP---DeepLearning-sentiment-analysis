@@ -3,7 +3,7 @@ NLP project that allows to analyse tweets and classify them whether they are or 
 
 ## Details for certification
 * email : amina.nasri@gmail.com
-* video link : "..."
+* video link : https://share.vidyard.com/watch/Td8ptTFoQP4ajnpWdbRcur?
 
 ## Getting Started
 
